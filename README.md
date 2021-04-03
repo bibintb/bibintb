@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bibintb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...ML/ DL
+- 🌱 I’m currently learning ... ML& DL
+- 💞️ I’m looking to collaborate on ... ML& DL
 - 📫 How to reach me ...bibintb5@gmail.com
 
 <!---
