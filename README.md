@@ -1,6 +1,6 @@
 ## 👋 I'm Bibin T B
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5C39F0&size=24&vCenter=true&lines=Python+Developer;Machine+Learning+Developer;Robotic+Process+Automation;Electrical+and+Electronics+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Machine+Learning+Developer;Electronics+and+Robotics)](https://git.io/typing-svg)
 - 
 -  🌹  I'm Intersted in ML & DL
 - 🌱 I’m currently learning ... ML & DL
