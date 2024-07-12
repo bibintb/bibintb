@@ -5,7 +5,7 @@
 -  🌹  I'm Intersted in ML & DL
 - 🌱 I’m currently learning ... ML & DL
 - 💞️ I’m looking to collaborate on ... ML & DL
-- 📫 How to reach me ...bibintb5@gmail.com
+- 📫 How to reach me ...bibintb@duck.com
 
 <!---
 bibintb/bibintb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
